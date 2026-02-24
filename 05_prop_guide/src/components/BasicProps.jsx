@@ -117,6 +117,6 @@ function BasicProps() {
       </div>
     </section>
   );
-}
+};
 
 export default BasicProps;
